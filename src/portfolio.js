@@ -115,9 +115,9 @@ const educationInfo = {
       duration: "March 2018 - June 2022",
       desc: "Committed to gaining a comprehensive understanding of electronics and computer systems to create innovative solutions.",
       descBullets: [
-        "Selected to be the Electronics Engineering Technology Departments Tutor/Teachers Assistant",
+        "Selected to be the Electronics Engineering Technology Department's Tutor/Teacher's Assistant",
         "Won the Yearly Graphic Design Competition",
-        "Built and Developed a Vending Machine, Utalizing an Arduino",
+        "Built and Developed a Vending Machine, Utilizing an Arduino",
         "Dean's List & Perfect Attendance Awards"
       ]
     }
@@ -223,7 +223,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Pojects And Achievements🏆 "),
+  title: emoji("Projects And Achievements🏆 "),
   subtitle:
     "Achievements, Certifications, Past Projects, and Some Cool Stuff that I have done !",
 

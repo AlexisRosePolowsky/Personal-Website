@@ -24,7 +24,7 @@ const greeting = {
     "I am a highly motivated Project Manager and Software Developer with a unique blend of computer science and electrical engineering expertise."
   ),
   resumeLink:
-    "https://dochub.com/m/shared-document/po20675/P0B76b3K6dM4Lekwn2y1Gg/alexis-rose-polowsky-resume-pdf?dt=UozGNCxG4gkY1M5k-_db", // Set to empty to hide the button
+    "https://dochub.com/po20675/2GQ1NXoKyQm1J8YKDkW6bx/alexis-rose-polowsky-resume-20-09-2023-08-10-24-pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
